@@ -66,9 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 #
 ![Node.js CI](https://github.com/shameem16/reactapp/workflows/Node.js%20CI/badge.svg)
 
-### Sonae Status
+### Sonar Status
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/dashboard?id=shameem16_reactapp)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=shameem16_reactapp&metric=alert_status)](https://sonarcloud.io/dashboard?id=shameem16_reactapp)
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=shameem16_reactapp)](https://sonarcloud.io/dashboard?id=shameem16_reactapp)
-#
